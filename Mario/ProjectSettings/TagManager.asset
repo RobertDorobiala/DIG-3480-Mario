@@ -7,6 +7,11 @@ TagManager:
   - Ground
   - Coin
   - End
+  - CoinBox
+  - MushroomBox
+  - Mushroom
+  - Goomba
+  - PlayerCheck
   layers:
   - Default
   - TransparentFX
@@ -17,9 +22,9 @@ TagManager:
   - 
   - 
   - Ground
-  - 
-  - 
-  - 
+  - CoinBox
+  - MushroomBox
+  - Player
   - 
   - 
   - 
